@@ -15,7 +15,7 @@ const Header = () => {
                 <strong>React</strong>
             </div>
         </div>
-        <div className="container"><span><center>A web application that uses Jenkins for CI/CD pipeline to automatically pull code from GitHub, build images on Docker Hub and, deploy it to Amazon Elastic Compute Cloud (EC2). Abubakar Wazih Tushar</center></span></div>
+        <div className="container"><span><center>A web application that uses Jenkins for CI/CD pipeline to automatically pull code from GitHub, build images on Docker Hub and, deploy it to Amazon Elastic Compute Cloud (EC2)</center></span></div>
     </header>
   )
 }
